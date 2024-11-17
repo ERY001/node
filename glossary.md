@@ -11,7 +11,7 @@ This file documents various terms and definitions used throughout the Node.js co
 * **ASAP**: As Soon As Possible.
 * **BE**: Big [Endian][] - A Byte Order where the largest bit comes first. The opposite of **LE**.
 * **Bootstrap**: Early phase in the Node.js process startup - sets up the execution environment and loads internal
-  modules.
+  modules.zzdfdzfdedfsgsg
 * **CI**: [Continuous Integration][] - Development practice where code changes are frequently merged into a shared
   repository.
 * **CITGM**: Canary In The Gold Mine - A smoke test that tests the code change with popular npm packages.
